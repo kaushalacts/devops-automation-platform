@@ -1,4 +1,4 @@
-📘 README.md — DevOps Automation & Guardrails Platform (Serverless)
+ DevOps Automation & Guardrails Platform (Serverless)
 🚀 Overview
 
 This project is a Serverless DevOps Automation Platform built using AWS Lambda and event-driven architecture.
